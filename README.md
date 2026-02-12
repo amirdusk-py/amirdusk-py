@@ -1,16 +1,28 @@
-## Hi there 👋
+## Hi there im amir👋
+🎓 Computer Science Student
+🧑‍💻 Aspiring Software Developer
+---
+## ⚙️ Tech Stack
+- Python
+- JavaScript
+- HTMl & CSS
+- Git & GitHub
+---
+## 📌 Current Focus
+- building real-world web applications
+- Improving problem-solving skills
+- Learning Full-Stack Development
+---
+## 🚀 Skills i also have
+- C#
+- adobe illustrator
+- adobe photoshop
+- office
+- network +
+## 🥇Goals
+- study Computer Science abroad
+- Become a professional Software Engineer
+- Contribute to open-source projects
 
-<!--
-**amirdusk-py/amirdusk-py** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+⭐ Check out my repositories below!
